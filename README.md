@@ -1,13 +1,20 @@
-🚀 Excited to have completed **Round 1 of #DatavizWorldChamps**!
+# 🚀 Dataviz World Champs Journey
 
-I'm truly grateful to  Microsoft Team for organizing such an inspiring competition. It was an amazing opportunity to challenge myself, explore data storytelling, and transform a dataset into meaningful visual insights.
+Excited to share my journey in **#DatavizWorldChamps**!
 
-A big thank you to everyone who supported, encouraged, and shared feedback throughout this journey. Seeing the incredible creativity from participants around the world has been both motivating and educational.
+A huge thanks to the **Microsoft Team** for organizing such an inspiring competition. It was a great opportunity to challenge myself, explore data storytelling, and turn a dataset into meaningful visual insights.
 
-Congratulations to all the participants who made Round 1 such a success! 🎉
+## 🏆 Highlights
+- ✅ Completed **Round 1**
+- ✅ Advanced to the **Final Round**
+- ✅ Finished in the **Top 50** globally
 
-Now, I'm looking forward to **Round 2**, which opens on **July 7**. I'm excited to dive into the new dataset, learn even more, and continue improving my data visualization skills.
+Huge thanks to everyone who supported, encouraged, and shared feedback along the way. Seeing the creativity from participants around the world was both motivating and educational.
 
-Let's keep learning, building, and inspiring each other!
+Congrats to all the participants who made this competition such a success! 🎉
 
-#DatavizWorldChamps  #PowerBI #DataVisualization #DataAnalytics #BusinessIntelligence #DataStorytelling #Microsoft #LearningInPublic #Analytics
+> Let's keep learning, building, and inspiring each other.
+
+---
+
+`#PowerBI` `#DataVisualization` `#DataAnalytics` `#BusinessIntelligence` `#DataStorytelling` `#Microsoft` `#LearningInPublic` `#Analytics`
